@@ -65,7 +65,7 @@ As teenagers, we were passionate, wanting to accomplish great things.
 
 In our youth, we were awakened by a nightmare called society, and as we sat up in bed, we pondered the path ahead.
 
-In our middle age, we are weary, reluctantly accepting the status quo, not wanting to change anymore.
+In our middle age, we are physically and mentally exhausted, although reluctant, but has accepted the status quo, do not want to change.
 
 In our old age, we believe in fate, convinced that misfortunes are predestined.
 
