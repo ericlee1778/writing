@@ -35,27 +35,27 @@ The Resource Curse applies to personal growth too:
 
 > Because we have plenty of resources, we don't need to work hard, then we become overly reliant on these resources. When these resources are exhausted, we can't do anything and we're incapable of anything, ending up like fools.
 
-Pretending is like a false resource, we use it to trade for what we want. Seeing the results, although we know that continuous pretending is not sustainable, we can't give up the immediate benefits and thus keep pretending. In order to maintain the image, we pay a huge price for this mask time and time again, hindering our own growth in the process.
+Pretending is like a hallucinatory resource, we use the pretended images to trade for what we want. As we see the benefits, although we know that continuous pretending is not sustainable, we can't give up the immediate benefits and thus keep pretending. In order to maintain the image, we pay a huge price for this mask time and time again, hindering our own growth in the process.
 
-Because we lack, we pretend. The more we pretend, the more tired we become, the more tired we are, the worse we get, and the worse we get, the more we pretend.
+Because we are not good enough, we pretend. The more we pretend, the more tired we become, the more tired we are, the worse we get, and the worse we get, the more we pretend.
 
-Those who lack more, pretend more, in order to mask their weaknesses and flaws.
+Those who worse, pretend more, in order to mask their weaknesses and flaws.
 
 The more you pretend, the worse you get, and the worse you get, the more you rely on pretending.
 
-People who love to pretend, tend to think that others are also pretending, as they believe that others can't possibly be that good, they must be pretending too.
+People who love to pretend, tend to think that others are also pretending, as they can't believe that how others could possibly be that good, they must be pretending too.
 
 This is a terrifying curse...
 
 ## How Great is the Cost of Pretending?
 
-In the long run, the cost of pretending is enormous. The more masks you wear, the more exhausted you become, the more energy you consume, and the less energy you have to focus on important tasks.
+In the long run, the cost of pretending is enormous. The more masks you wear, the more exhausted you become, the more attention span and energy you consume, and the less attention span and energy you can put on important tasks.
 
 Over time, pretending will make us worse.
 
 Secondly, pretending makes us more and more tired. Why is that?
 
-> Because when we use masks to deal with different people and situations, we consume a lot of energy and time. We have to constantly monitor our words and behaviors to not give ourselves away. We need to switch roles without making mistakes. We have to bear the risk and pressure of being exposed, without any chance to relax.
+> Because when we use masks to deal with different people and situations, we consume a lot of attention span and time. We have to constantly monitor our words and behaviors to not give ourselves away. We need to switch roles without making mistakes. We have to bear the risk and pressure of being exposed, without any chance to relax.
 
 Finally, pretending makes us more and more lonely. Why is that?
 
