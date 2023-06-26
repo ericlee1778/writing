@@ -1,4 +1,4 @@
-# Take off your mask, are you willing to face your true self?
+# Take off your mask! Are you willing to face your true self?
 
 Concept of this chapter: Being genuine
 
@@ -93,4 +93,96 @@ If you really can't avoid comparing, then you can try to change who you compare 
 
 > 1. Fixed mindset
 > 2. Growth mindset
+
+People with a fixed mindset tend to believe their abilities are static and unchangeable. They often compare their present selves with others and, more often than not, end up feeling defeated. They perceive themselves as incapable and useless.
+
+On the other hand, individuals with a growth mindset believe their skills can be improved through effort and learning. They compare their current selves with their past selves or others' past achievements. The outstanding performance of others is attributed to their long-term commitment, so it is only fair to compare oneself with the others at the beginning of their journeys. Given more time, they might not lag far behind their current counterparts.
+
+People with a forward-thinking or growth mindset don't need to pretend because they understand that nobody is inherently superior; it's all a matter of time spent accumulating skills and experiences. There's no need to pretend. Just keep progressing, and eventually, you'll get to where you want to be.
+
+Interestingly, while people with a fixed mindset often feel defeated by comparison, those with a growth mindset find it increasingly exciting. This is a perfect example of a mirror world.
+
+Mirror world:
+
+> It seems like we are doing the same thing, but the mindset is opposite, so the outcomes are inevitably different.
+
+Ask yourself every day:
+
+> Have you made any comparisons today? Have you shifted to a growth mindset?
+
+When we ask ourselves these questions, we activate our metacognition. This allows us to step back and examine whether our thinking and behavior patterns have become growth based.
+
+### Achieving Growth through Long-Term Commitment 🌱
+
+The most effective method for not pretending is to achieve growth through long-term commitment. When you have an in-depth understanding and mastery of something, you will confidently display your abilities and value without the need for any external embellishment.
+
+So, what's the root of pretense?
+
+> Lack of specialized skills... Therefore, one can only pretend.
+
+When you've honed a particular skill, people will look at you differently, and your other shortcomings become more tolerable to them.
+
+This is because they believe you're truly exceptional, hence they admire you.
+
+They might even say:
+
+> Who doesn't have flaws?
+
+Here's an interesting way to think about it:
+
+> Are we not pretending because we've become awesome, or have we become awesome because we stopped pretending?
+
+We can choose to interpret it this way:
+
+> We stop pretending, and thus have more attention span to focus on self-improvement, gradually achieving one thing after another until we finally become awesome.
+
+### Don't Maintain a Pretentious Persona 🙅‍♂️
+
+Some people might believe that pretending is a necessary means, a social skill, a method of managing their image. They deliberately sculpt an image that meets their expectations or those of others and use this persona to interact and communicate.
+
+This tactic might seem clever, but it's actually foolish because a fake persona will eventually collapse. When you can no longer maintain the image you've crafted, your true self is exposed. At that moment, you'll find all your effort has been wasted, and the trust and respect you've gained disappear.
+
+---
+
+## How to Attain Lasting Satisfaction from Success?
+
+What is lasting satisfaction? During the pursuit of a goal, you achieve success that yields long-term and sustainable returns for both you and those you care about, rather than fleeting success. This kind of success brings lasting satisfaction, instead of worrying about losing hard-won success and being trapped in the game of chasing the next goal.
+
+The 2004 Harvard Business Review article [Success That Lasts](https://hbr.org/2004/02/success-that-lasts) described lasting satisfaction as being comprised of four indispensable aspects:
+
+> 1. Happiness
+> 2. Achievement
+> 3. Significance
+> 4. Legacy
+
+We can look at these four aspects from another perspective:
+> 1. Self
+> 2. Family
+> 3. Work/Career
+> 4. Community/Society
+
+By extrapolation, this concept can be used to examine our thinking and determine what concepts are correct.
+
+One who maintain fake persona can pretend to be happy in front of others (family, colleagues, society), but can they really cheat themselves that they are truly happy? The mask will eventually be taken off, but they can not do anything about it, they can only continue to pretend. As long as they are ultimately weak, every pretense of them will be afraid of being demolished, this pressure comes from the sense of powerlessness for their own weakness.
+
+Observing pretense from life:
+
+> Look at the people around you who are pretending. See what price they have paid.
+
+Can a pretense be passed on? No, it cannot, and it shouldn't. Nobody would bear to see their child ignore their own issues, wearing a mask, learning to pretend, and licking their wounds in solitude when the night is quiet.
+
+When we can manage not to pretend, we can serve as a role model for our children. They can also learn not to pretend and cultivate a habit of a forward-thinking mindset.
+
+Don't pretend. Face reality with a growth mindset, accumulate capabilities, and finally learn to sincerely love yourself.
+
+Being yourself is good, but being genuinely in love with who you are is even better.
+
+Be yourself and glad to be yourself.
+
+Consider and act:
+
+> 1. How many roles do you play in real life?
+> 2. Have you made any comparisons today? Have you shifted to a forward-thinking mindset?
+> 3. Is it because you've become awesome that you don't need to pretend, or is it that by not pretending, you've ultimately become awesome?
+> 4. Observe the people around you who are pretending. See what price they have paid.
 
