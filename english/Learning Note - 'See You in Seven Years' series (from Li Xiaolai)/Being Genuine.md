@@ -169,20 +169,20 @@ Observing pretense from life:
 
 > Look at the people around you who are pretending. See what price they have paid.
 
-Can a pretense be passed on? No, it cannot, and it shouldn't. Nobody would bear to see their child ignore their own issues, wearing a mask, learning to pretend, and licking their wounds in solitude when the night is quiet.
+Can a pretense be passed on? No, it cannot, and it dare not. Nobody would bear to see their child ignore their own issues, wearing a mask, learning to pretend, and licking their wounds in solitude at the midnight.
 
-When we can manage not to pretend, we can serve as a role model for our children. They can also learn not to pretend and cultivate a habit of a forward-thinking mindset.
+When we can manage not to pretend, we can serve as a role model for our children. They can also learn not to pretend and cultivate a habit of a growth mindset.
 
-Don't pretend. Face reality with a growth mindset, accumulate capabilities, and finally learn to sincerely love yourself.
+Not to pretend. Face reality with a growth mindset, accumulate capabilities, and finally learn to sincerely love yourself.
 
 Being yourself is good, but being genuinely in love with who you are is even better.
 
 Be yourself and glad to be yourself.
 
-Consider and act:
+Thoughts and Actions:
 
 > 1. How many roles do you play in real life?
-> 2. Have you made any comparisons today? Have you shifted to a forward-thinking mindset?
+> 2. Have you made any comparisons today? Have you shifted to a growth mindset?
 > 3. Is it because you've become awesome that you don't need to pretend, or is it that by not pretending, you've ultimately become awesome?
 > 4. Observe the people around you who are pretending. See what price they have paid.
 
