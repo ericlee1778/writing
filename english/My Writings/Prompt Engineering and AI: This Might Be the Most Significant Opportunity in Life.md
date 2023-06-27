@@ -45,3 +45,46 @@ To me, writing is a form of effective learning, much like doing past year exam p
 
 Input is a passive form of learning. Only through continuous practice, enabling us to output what we've learned, can we better understand and master it.
 
+Beginning my journey into writing with this mindset, I discovered an interesting fact, and later, a related scientific methodology, the Feynman Learning Method:
+
+> Teaching is the best way to learn.
+
+And the advanced method is:
+
+> We can use what we've learned to create a new product.
+
+This is also the effective learning methodology I realized during my coding journey. Many industry leaders also share this method for learning and doing things.
+
+For instance, if you want to learn programming, after mastering some basic knowledge of coding, you should try to create a product. The product doesn't need to be complex; most of the time, you might be the only one using it. The product might not be very useful to others. For example, you can optimize your work flow through programming, instead of staying in a passive state of learning programming knowledge.
+
+Now, we have ChatGPT. For the sencond time in my life, I have deeply felt that this is a tremendous opportunity. This is an opportunity that has no wealth and class barriers, and it could change the fate of ordinary people, allowing them to make leaps and bounds in their lives.
+
+---
+
+### The Huge Opportunity Brought by ChatGPT
+
+A few months ago, I started using ChatGPT. Although it shocked me greatly, I didn't realize at the time that this was a tremendous opportunity. I only vaguely felt that I should delve into ChatGPT but didn't take real action. At that time, I was acting out of fear of lagging behind others. As I mentioned earlier, such actions are driven by fear, not by a genuine understanding of the great opportunity that ChatGPT presents, so it cannot last.
+
+At that time, I also lacked the courage to learn ChatGPT. Yes, you heard right, learning requires courage, even for someone like me who is good at learning. Although this industry is still developing, many people are already at the forefront of it, and new AI applications are being implemented in real life every day. Just observing these novelties made me feel powerless because I knew that most people, including me, don't have enough time and attention to catch up with these new things.
+
+In addition, I vaguely felt that prompt engineering might not be a skill that could make money for us ordinary people. Because all prompts can be publicly shared, and the cost of sharing is nearly zero. It's likely that only the top-notch prompt engineers can make big money. So, what can we ordinary people do after learning it?
+
+I also noticed the threat that generative AI poses to us. This threat is real; it is very likely to replace many people's jobs. Moreover, the synergy between different technologies will cause many technologies to suddenly surge in their development.
+
+Imagine, generative artificial intelligence (like ChatGPT) + augmented reality AR (like Apple Vision Pro) is comparable to Neuralink already being on the market, AI can use AR to guide us on how to act in the moment we receive information. AI + robotics is also very powerful, like a highly intelligent humanoid robot. Think about it, when AI has a human body, it's like breaking through the virtual world and coming to the physical world. Whatever people can do, AI can also do, and it can even do it better.
+
+So, in such a world, what can ordinary people do? No matter how we struggle, we will eventually be replaced, be eliminated. Maybe we should give up resistance early and just lay flat.
+
+However, what changed my mind and made me choose to actively learn prompt engineering? I hope to document the process of this mindset transformation not only to help and encourage others but also to strengthen my own beliefs.
+
+Initially, I was inspired by a tweet. Regrettably, I didn't save this tweet, and now I can't find it. But I remember it mainly talked about the author's personal experiences and why we should learn AI as early as possible. A few years ago, when he started learning machine learning, the field was just beginning to develop, and there weren't many people in the industry. He and a group of friends would share and learn together regularly on the Meetup platform, learning a little new thing every day. A few years later, he found that he had learned so much that ordinary people found it hard to keep up. They had followed the industry's development from the beginning and eventually became industry leaders. He believes that AI is the same. If we start learning now, we can keep up with the development pace more easily and progress with the industry.
+
+Later on, I was inspired by a free course from OpenAI called [ChatGPT Prompt Engineering for Developers](https://www.deeplearning.ai/short-courses/chatgpt-prompt-engineering-for-developers/).
+
+This course broadened my horizons and showed me many applications of prompt engineering and its future prospects. If we can correctly grasp the techniques of prompt engineering, we can create highly valuable products. This is not just another product created through a programming language that only executes commands according to the code. This is a product that has the ability to think. We use prompts to tell the AI the principles we hope it will follow. Once the AI understands these principles, we let it make judgments and decisions based on the principles we set. Prompt engineering can be seen as another dimension of software engineering that endows code with autonomous thinking ability, and from the current perspective, the threshold of prompt engineering is not high, unlike machine learning.
+
+In our interaction with AI, we're continually providing "prompts." These prompts serve as teaching aids, helping AI understand our requirements and expectations. This is like an "invisible programming"—we don't write code directly to control the behavior of the AI, but we guide it through "prompts."
+
+And when we can proficiently carry out prompt engineering, we can use AI more effectively and create products and services that better meet our needs. This is a huge opportunity for us.
+
+
