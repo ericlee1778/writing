@@ -114,9 +114,13 @@ I know that once I make it public, I'll take this decision more seriously and fu
 I want to share some methods for learning prompt engineering.
 
 > 1. Pay attention to industry leaders, read their own or shared academic research and articles. When our own information channels have not yet been established, tracking their updates is the most effective way to obtain information.
+>
 > 2. Learn new research results, especially those system messages and prompt techniques that have been proven by academia. We can use ChatGPT to test ourselves, ask questions, and stimulate our thinking. We can also have ChatGPT help us optimize our prompts.
+>
 > 3. Study other people's work and observe how they write prompts. We can learn from others' prompts, make appropriate modifications to suit our needs. We should treat prompts as a programming language to learn.
+>
 > 4. Output and practice, make some products with prompts. In the process of learning skills, practice is the best learning method. In terms of learning skills, creating products is the best output and practice.
+>
 > 5. Output and writing, writing is a great way to learn. Through writing, we can share the knowledge and concepts we have learned. In terms of learning knowledge and concepts, writing is the best output.
 
 #### Conclusion
