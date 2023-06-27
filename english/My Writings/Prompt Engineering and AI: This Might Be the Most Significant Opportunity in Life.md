@@ -87,4 +87,52 @@ In our interaction with AI, we're continually providing "prompts." These prompts
 
 And when we can proficiently carry out prompt engineering, we can use AI more effectively and create products and services that better meet our needs. This is a huge opportunity for us.
 
+The third comes from a concept I recently relearned – the growth mindset. We can choose to believe that future jobs will be replaced by machines and embrace the fear of its arrival, or we can choose to believe and optimistically view the future value of artificial intelligence (AI) and prompt engineering. In reality, every industry, every company, might need professional prompt engineers to optimize operations and improve efficiency. And what truly needs optimizing are usually the problems requiring fine-tuning into a customized solutions, which cannot be solved by any ready-made prompt found online.
+
+Just like data analysts, one of the possible specializations for future prompt engineers might involve using prompts to guide models in data analysis. We can choose to believe the first scenario, but it doesn't offer any guidance for our growth. What's really important is that prompt engineering is undoubtedly a vital skill for the future. The conclusion is that we can choose to believe that learning it is definitely the right thing to do.
+
+The fourth comes from an open-source project I saw on GitHub, called [Mr. Ranedeer AI Tutor](https://github.com/JushBJJ/Mr.-Ranedeer-AI-Tutor). It's an outstanding work by a university student. The core of this project is to train the artificial intelligence model, ChatGPT, into a personalized teacher, which can adapt to our depth of learning, teaching methods, communication styles, and tones to teach us any knowledge we wish to learn. Moreover, it can test us by asking questions, forcing us to output what we've learned.
+
+What does it actually mean?
+
+It allows us not only to choose teachers, but also to change teachers, to tailor our study plans according to our pace, to ask questions at any time without being ignored or disliked, and to take tests anytime. This learning mode is undoubtedly superior to traditional educational methods. In the near future, teachers might no longer directly teach students, but guide and correct them on the side as they use AI auxiliary tools for learning, just like a fitness coach watches your training and corrects you when you make mistakes.
+
+Through an in-depth study of this project, I realized the profound potential of prompt engineering. In the future, a valuable prompt will most likely not be a simple combination of a few sentences. The complexity of truly valuable prompts can be comparable to complete software programming. This field is not monopolized by a few elites. Even non-top prompt engineers have the opportunity to earn their share from this market.
+
+The fifth is when I used this product to learn prompt engineering, I gained a deeper understanding. I suddenly found that we can improve our ability to write prompts through prompt engineering, which was a revelation. As we write better prompts, we can write better prompts to ask ChatGPT to write better prompts for us, creating a virtuous cycle. Moreover, each prompt optimization will receive timely feedback, thereby significantly boosting our learning efficiency in the iterative process.
+
+#### Why Did I Write This Article?
+
+You might ask why I wrote this article? Because I want to openly set my goal as I did in college, even if it might not attract attention from others:
+
+> To become a Prompt Engineer
+
+I know that once I make it public, I'll take this decision more seriously and fulfill my commitment.
+
+#### A Summary of Learning Methods for Prompt Engineering
+
+I want to share some methods for learning prompt engineering.
+
+> 1. Pay attention to industry leaders, read their own or shared academic research and articles. When our own information channels have not yet been established, tracking their updates is the most effective way to obtain information.
+> 2. Learn new research results, especially those system messages and prompt techniques that have been proven by academia. We can use ChatGPT to test ourselves, ask questions, and stimulate our thinking. We can also have ChatGPT help us optimize our prompts.
+> 3. Study other people's work and observe how they write prompts. We can learn from others' prompts, make appropriate modifications to suit our needs. We should treat prompts as a programming language to learn.
+> 4. Output and practice, make some products with prompts. In the process of learning skills, practice is the best learning method. In terms of learning skills, creating products is the best output and practice.
+> 5. Output and writing, writing is a great way to learn. Through writing, we can share the knowledge and concepts we have learned. In terms of learning knowledge and concepts, writing is the best output.
+
+#### Conclusion
+
+Recently, I've been hesitating whether or not to subscribe to ChatGPT Plus. $20 per month won't impact my quality of life, but I kept asking myself, is it necessary to subscribe just to use ChatGPT-4? Moreover, it's not unlimited – there's a usage limit, which resets every few hours.
+
+However, when I was writing this article, I figured things out. If you want to learn prompt engineering, you definitely need to use the most advanced and best model to learn, future versions of models like ChatGPT-4.5 / ChatGPT-5 will undoubtedly require price. Moreover, the earlier you use advanced models to learn, the higher your learning efficiency will be.
+
+That's also the reason why I chose to focus on ChatGPT, rather than any of the other 100 types of AI. Because in the future, it's likely that one application of ChatGPT could do all the tasks that other 100 generative AIs can do.
+
+As for the possibility of wasting money on subscription, that's not the point we should be focusing on. I think of it this way – the annual subscription fee for ChatGPT Plus is just $240. If I regard this sum as an investment, it's a real bargain compared to the amount and risk I would take investing in the financial market.
+
+I previously wrote an article about 5G and Serendipity. The core idea was that we can only judge whether a thing is worth doing and how right and valuable it is, but we can't predict whether the final outcome will meet our expectations after doing it. We don't even know when the benefits will appear or how they will manifest when we decide to do something. But as long as we stick to this principle – doing the right things in the right way – we'll only get better, and Serendipity will surely come.
+
+I've decided to give myself a year. After a year, I'll look back at my growth and see what changes have taken place in the industry. After a year, I'll summarize my growth and changes in the industry. This is also a commitment I'm making to myself.
+
+See you one year later!
+
 
