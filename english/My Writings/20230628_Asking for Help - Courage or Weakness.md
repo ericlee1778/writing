@@ -72,7 +72,7 @@ We can ponder over this question:
 
 > How does it feel when we are willing to help others, but they are reluctant to let us assist?
 
-This reminds me of an article I wrote before, "[Value](https://github.com/ericlee1778/writing/blob/main/english/Learning%20Note%20-%20See%20You%20in%20Seven%20Years%20series%20(from%20Li%20Xiaolai)/2.Value.md)". The core idea of the article is that the judgment of value is determined by the receiver. In that article, I discussed many ways to provide value to others, and this food poisoning experience made me think more deeply about how to let others extract value from us. This article is an extension of this thought, exploring how to let others derive value from us.
+This reminds me of an article I wrote before, "[Value](https://github.com/ericlee1778/writing/blob/main/english/Learning%20Note%20-%20See%20You%20in%20Seven%20Years%20series%20(from%20Li%20Xiaolai)/002.Value.md)". The core idea of the article is that the judgment of value is determined by the receiver. In that article, I discussed many ways to provide value to others, and this food poisoning experience made me think more deeply about how to let others extract value from us. This article is an extension of this thought, exploring how to let others derive value from us.
 
 The feature of these two aspects is that when you provide value to others, you are the giver, and the others are the receivers of value. When others derive value from us, they are the givers, and they are also the receivers of value.
 

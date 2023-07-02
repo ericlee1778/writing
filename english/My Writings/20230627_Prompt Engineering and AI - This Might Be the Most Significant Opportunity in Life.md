@@ -8,7 +8,7 @@ First, let me backtrack to my childhood. I was not a clever student then, and ev
 
 ### Primary School Experience
 
-Let's start with my primary school experience. Back then, I performed very poorly in the Malay language in the [UPSR](https://en.wikipedia.org/wiki/Primary_School_Achievement_Test_(Malaysia)) mock exam. The fear, the dread—I remember it vividly even today. At that time, I wanted to align myself with my peers as much as possible, not wanting to have to spend an extra year in a foundational class (when going to secondary school) because of my poor grades, while others could directly enter middle school. This was something I couldn't accept.
+Let's start with my primary school experience. Back then, I performed very poorly in the Malay language in the [UPSR](https://en.wikipedia.org/wiki/Primary_School_Achievement_Test_(Malaysia%29) mock exam. The fear, the dread—I remember it vividly even today. At that time, I wanted to align myself with my peers as much as possible, not wanting to have to spend an extra year in a foundational class (when going to secondary school) because of my poor grades, while others could directly enter middle school. This was something I couldn't accept.
 
 Upon learning of my grades, my mother didn't blame me. Instead, she quietly took me from one tuition center to another, hoping to find a place that could assure my pass in Malay in a short time. I was very weak at that time, unable to make the decision to change my fate independently. I feel very fortunate to have had a mother who could lend a hand and offer support when I was most confused and helpless.
 
@@ -57,7 +57,7 @@ This is also the effective learning methodology I realized during my coding jour
 
 For instance, if you want to learn programming, after mastering some basic knowledge of coding, you should try to create a product. The product doesn't need to be complex; most of the time, you might be the only one using it. The product might not be very useful to others. For example, you can optimize your work flow through programming, instead of staying in a passive state of learning programming knowledge.
 
-Now, we have ChatGPT. For the sencond time in my life, I have deeply felt that this is a tremendous opportunity. This is an opportunity that has no wealth and class barriers, and it could change the fate of ordinary people, allowing them to make leaps and bounds in their lives.
+Now, we have ChatGPT. For the second time in my life, I have deeply felt that this is a tremendous opportunity. This is an opportunity that has no wealth and class barriers, and it could change the fate of ordinary people, allowing them to make leaps and bounds in their lives.
 
 ---
 
