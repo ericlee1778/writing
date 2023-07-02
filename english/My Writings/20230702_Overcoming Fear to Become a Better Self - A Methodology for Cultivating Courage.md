@@ -30,7 +30,7 @@ Before going on stage to sing, I didn't tell anyone that I was going to perform.
 
 ## Re-examining the concept of Courage Once Again
 
-This recent experience has led me to revisit a piece I've written in the past, an article entitled [Being Genuine](https://github.com/ericlee1778/writing/blob/main/chinese/%E7%AC%94%E8%AE%B0%20-%20%E7%9B%B8%E7%BA%A6%E7%AC%AC%E4%B8%83%E5%B9%B4%20(%E7%AC%94%E8%AE%B0%E7%9D%A1%E8%AF%9D%E7%9A%84%E5%87%BA%E5%A4%84%E7%8E%8B%E7%AC%91%E6%9D%A5%E7%9A%84%E8%AF%BE%E7%A8%8B)/001.%E4%B8%8D%E8%A3%85.md). The concept was simple: We really don't need to fear others' judgments, we just need to be ourselves.
+This recent experience has led me to revisit a piece I've written in the past, an article entitled [Being Genuine](https://github.com/ericlee1778/writing/blob/main/english/Learning%20Note%20-%20See%20You%20in%20Seven%20Years%20series%20(from%20Li%20Xiaolai)/001.Being%20Genuine.md). The concept was simple: We really don't need to fear others' judgments, we just need to be ourselves.
 
 And I've gradually realized, after having a few experiences where we've managed to overcome our fears, we grow more confident and courageous. The next time we're faced with fear, we can take that first step with more ease, boldly moving forward, because there's really nothing to be afraid of. It was not until this moment that I deeply understood that courage indeed can be cultivated, which means that courage is actually a skill.
 
